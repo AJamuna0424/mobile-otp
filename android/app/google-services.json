@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943090566565",
+    "project_id": "phone-otp-370e7",
+    "storage_bucket": "phone-otp-370e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943090566565:android:feec40a99976ddf7ba944c",
+        "android_client_info": {
+          "package_name": "com.example.liveasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQu5mThgox4Bl8t3YM87B3nmcbAqgn_2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
